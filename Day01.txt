@@ -1,0 +1,7 @@
+1.HTTP1.1 & HTTP2 :
+Hypertext Transfer Protocol,HTTP1.1 is a protocol used for communication between web servers and web browsers.It only allows one request to be sent at a time on a single connection, which can cause delays in page loading times. Additionally, it doesn't compress header data, which can add overhead and slow down data transmission.
+HTTP2:
+HTTP/2 is a binary protocol that is designed to address many of the limitations of HTTP/1.1.HTTP/2 is a faster, more efficient, and more secure protocol than HTTP/1.1, and it is quickly becoming the preferred protocol for web communication. Many major web browsers and servers now support HTTP/2, and it is expected to become the standard for web communication.
+2.objects :
+In JavaScript, objects are a fundamental data type that allows developers to represent and organize data in a structured way. They are used extensively in modern web development, and understanding their internal representation is essential for building efficient and effective applications.
+At a high level, objects in JavaScript are collections of key-value pairs, where the keys are strings and the values can be any valid JavaScript data type, including other objects. Objects can be created using object literals, constructors, or classes, and they can be modified and accessed using a variety of methods and operators.
